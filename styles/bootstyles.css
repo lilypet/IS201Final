@@ -1,0 +1,30 @@
+
+head {
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(235, 226, 226);
+}
+
+body {
+    text-align: center;
+    color: rgb(235, 226, 226);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tab{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.common{
+    text-align: none;
+}
+
+footer{
+    border: 2px;
+    
+}
+
+
+  
